@@ -1,0 +1,7 @@
+# ninja log v6
+60	1296	7618468893125054	CMakeFiles/Library_Management.dir/main.cpp.obj	c6518612b60397d1
+198	1288	7618468894505072	CMakeFiles/Library_Management.dir/Models/Book.cpp.obj	b62d57724b8d8038
+204	1291	7618468894565163	CMakeFiles/Library_Management.dir/Models/Account.cpp.obj	2750c28cd18188e7
+1296	1964	7618468905481650	Library_Management.exe	19f25ed64a9a4dde
+213	1273	7618468894655064	CMakeFiles/Library_Management.dir/Controllers/BookManager.cpp.obj	fdce1572395bec1c
+208	1277	7618468894605066	CMakeFiles/Library_Management.dir/Models/User.cpp.obj	929508d55db9c572
